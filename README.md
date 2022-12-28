@@ -1,2 +1,2 @@
 ### Disclaimer
-YOUR USE OF THE REPOSITORY AND YOUR RELIANE ON ANY INFORMATION ON THE REPOSITOTY IS SOLELY AT YOUR OWN RISK.
+Your use of the repository and your reliance on any information on the repository is solely at your own risk.
